@@ -1,5 +1,3 @@
-# kelompok2_klasfikasi_tipe_bangunan_di_indonesia
-
 ## Klasifikasi Gambar
 
 ## Kelompok 2
