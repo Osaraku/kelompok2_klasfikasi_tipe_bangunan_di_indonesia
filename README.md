@@ -1,0 +1,1 @@
+# kelompok2_klasfikasi_tipe_bangunan_di_indonesia
